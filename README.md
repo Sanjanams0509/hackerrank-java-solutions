@@ -69,29 +69,29 @@ This list may evolve based on my learning goals.
 ```
 hackerrank-java-solutions/
 │
-├── Welcome to Java/
+├── Welcome-to-Java!/
 │   ├── Solution.java
 │   └── README.md
 │
-├── Java Stdin and Stdout I/
+├── Java-Stdin-and-Stdout I/
 │   ├── Solution.java
 │   └── README.md
 │
-├── Java If-Else/
+├── Java-If-Else/
 │   ├── Solution.java
 │   └── README.md
 │
-├── Java Stdin and Stdout II/
+├── Java-Stdin-and-Stdout II/
 │   ├── Solution.java
 │   └── README.md
 │
-├── Java Output Formatting/
+├── Java-Output-Formatting/
 │   ├── Solution.java
 │   └── README.md
 │
 ├── ...
 │
-└── Java List/
+└── Java-List/
     ├── Solution.java
     └── README.md
 ```
