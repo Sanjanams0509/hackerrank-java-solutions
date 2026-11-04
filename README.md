@@ -44,14 +44,7 @@ The repository may be expanded to include solutions from other HackerRank domain
 
 - Algorithms
 - Data Structures
-- SQL
-- Python
-- C
-- C++
-- Problem Solving
-- Artificial Intelligence
 - Functional Programming
-- Mathematics
 
 This list may evolve based on my learning goals.
 
